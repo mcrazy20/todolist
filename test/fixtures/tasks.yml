@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  belongsToList: 
+  : 
+  : 
+  taskText: MyString
+  due: 2013-11-09
+
+two:
+  belongsToList: 
+  : 
+  : 
+  taskText: MyString
+  due: 2013-11-09
